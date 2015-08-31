@@ -8,7 +8,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "laravel/framework": "4.*"
+        "laravel/framework": ">=4.*"
     },
     "require-dev": {
         "orchestra/testbench": "2.1.*",
